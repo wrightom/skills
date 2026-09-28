@@ -3,6 +3,7 @@ This is a one-shot task. The spec below describes the desired end goal. Intervie
 </task>
 
 <spec>
+
 # Nightshift
 
 Nightshift is a lightweight task scheduler with a focus on AFK agent loops. It runs locally and prioritises simplicity and minimalism.
